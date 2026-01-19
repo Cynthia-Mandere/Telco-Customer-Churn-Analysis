@@ -22,7 +22,9 @@ This project analyzes customer churn for a telecommunications company. The goal 
 ---
 
 ## Power BI Dashboard
-- Interactive dashboard file: `PowerBI/Dashboard.pbix`  
+- Interactive dashboard file: `PowerBI/Dashboard.pbix`
+
+  
  ![Power BI Dashboard](Telco-Customer-Churn-Analysis/PowerBI/dashboard_screenshot.png)
  
 - Dashboard includes:  

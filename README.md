@@ -23,7 +23,7 @@ This project analyzes customer churn for a telecommunications company. The goal 
 
 ## Power BI Dashboard
 - Interactive dashboard file: `PowerBI/Dashboard.pbix`  
-- Screenshot for quick viewing: `PowerBI/Dashboard_Screenshot.png`  
+-![Dashboard Overview](PowerBI/Dashboard_Screenshot.png) 
 - Dashboard includes:  
   - KPI Cards: Overall churn, average tenure, average monthly charges  
   - Churn by Contract Type  
